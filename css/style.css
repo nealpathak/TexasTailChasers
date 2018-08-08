@@ -1373,7 +1373,7 @@ color: #111 !important;
 	float:left;
 	width:10%;
 }
-.w3-address-left i.fa.fa-phone,.w3-address-left i.fa.fa-envelope,.w3-address-left i.fa.fa-map-marker{
+.w3-address-left i.fa.fa-phone,.w3-address-left i.fa.fa-envelope,.w3-address-left i.fa.fa-map-marker,.w3-address-left i.fa.fa-facebook-square,.w3-address-left i.fa.fa-instagram{
     color: #FFFFFF;
     font-size: 1.5em;
 }
