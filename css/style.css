@@ -29,6 +29,9 @@ p,ul,ol{
   font-size: 15px;
 }
 
+.bigicons2{
+  font-size: 65px;
+}
 .background-video {
 	position: fixed;
 	background-size: cover;
